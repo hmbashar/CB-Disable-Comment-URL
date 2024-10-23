@@ -2,12 +2,14 @@
 Contributors: hmbashar
 Donate link: http://donate.codingbank.com
 Tags: Disable URL, Disable URL from comment, Comment url disable, remove Comment URL field.
-Requires at least: 3.0.1
+Requires at least: 4.6
 Tested up to: 6.6.2
-Requires PHP: 7.4
+Stable tag: 1.1.0
+Requires PHP: 5.6
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
+This plugin removes the URL field from the WordPress comment form.
 
 == Description ==
 Easy to disable URL Field from comment box

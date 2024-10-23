@@ -3,7 +3,7 @@
  * Plugin Name: CB Disable Comment URL
  * Plugin URI: https://wordpress.org/plugins/cb-disable-comment-url/
  * Description: This plugin removes the URL field from the WordPress comment form.
- * Version: 1.1
+ * Version: 1.1.0
  * Author: Md Abul Bashar
  * Author URI: https://facebook.com/hmbashar
  * License: GPLv2 or later
